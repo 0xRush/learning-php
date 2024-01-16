@@ -1,0 +1,15 @@
+{
+    "name": "a2020/better",
+    "authors": [
+        {
+            "name": "0xRush",
+            "email": "eias742@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
